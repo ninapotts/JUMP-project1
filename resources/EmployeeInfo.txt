@@ -1,0 +1,13 @@
+Orquidia 100000 Developer
+Charles 100000 Developer
+Ranika 1000000 Engineer
+Saniora 200000 FrontEnd
+Jihun 100001 Database
+Rich 60000 Management
+Keanu 260000 Database
+Isabelle 570000 Secretary
+Spike 20000 Intern
+Dio 100 Database
+Jason 6000000 Intern
+Demetri 0 Intern
+Kyle 50000 CEO
